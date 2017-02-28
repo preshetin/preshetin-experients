@@ -1,8 +1,8 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace QuizOverflow\Http\Controllers\Auth;
 
-use App\Http\Controllers\Controller;
+use QuizOverflow\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\SendsPasswordResetEmails;
 
 class ForgotPasswordController extends Controller
